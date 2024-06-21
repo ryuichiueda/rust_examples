@@ -12,8 +12,12 @@ name = "main"
 path = "src/main.rs"
 
 [[bin]]
-name = "struct1"
-path = "src/struct1.rs"
+name = "struct"
+path = "src/struct.rs"
+
+[[bin]]
+name = "struct_func"
+path = "src/struct_func.rs"
 
 [[bin]]
 name = "enum1"
