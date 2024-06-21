@@ -20,6 +20,10 @@ name = "struct_func"
 path = "src/struct_func.rs"
 
 [[bin]]
+name = "struct_func2"
+path = "src/struct_func2.rs"
+
+[[bin]]
 name = "struct_method"
 path = "src/struct_method.rs"
 
