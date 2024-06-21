@@ -20,5 +20,9 @@ name = "struct_func"
 path = "src/struct_func.rs"
 
 [[bin]]
+name = "struct_method"
+path = "src/struct_method.rs"
+
+[[bin]]
 name = "enum1"
 path = "src/enum1.rs"
